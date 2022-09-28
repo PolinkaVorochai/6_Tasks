@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accounts>
+    <account>
+        <login>mary</login>
+        <password>gygj154gj</password>
+        <admin>true</admin>
+    </account>
+    <account>
+        <login>boss</login>
+        <password>hyugl12jkhi</password>
+        <admin>false</admin>
+    </account>
+    <account>
+        <login>dear</login>
+        <password>jbguigu8976tgh</password>
+        <admin>false</admin>
+    </account>
+</accounts>

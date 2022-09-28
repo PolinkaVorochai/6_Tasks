@@ -1,0 +1,6 @@
+js;01.10.2022;pol@mail.com;skype 10:00;
+js;01.10.2022;pol@mail.com;skype 10:00;
+java;01.10.2022;pol101@mail.com;call user;
+js;01.10.2022;pol@mail.com;skype 10:00;
+js;01.10.2022;pol@mail.com;skype 10:00;
+java;01.10.2022;pol101@mail.com;call user;
